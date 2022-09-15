@@ -1,0 +1,60 @@
+---
+layout: default
+title: All Tours and Treks | Ethnic Hilltribe Eco Trails
+description: Join us for eco treks and nature tours in northern Thailand. Choose from our signature one or two-day treks or add some sightseeing to your experience. We offer challenging treks for the super-active, as well as gentler treks for families.
+image: /images/cascade-chiang-mai-doi-inthanon-130155.jpg
+keywords: trekking chiang mai, chiang mai trekking, ethnic hilltribe eco trails, trek thailand, trek chiang mai, eco tour chiang mai, hilltribe trek chiang mai, sightseeing chiang mai, authentic tour chiang mai, best chiang mai tour, best chiang mai trekking, book a tour chiang mai, chiang mai trekking companies, trekking chiang mai doi inthanon, trekking chaing mai price, adventure trekking thailand, chiang mai jungle trekking, chiang mai 1 day trek, chiang mai 2 day trek
+---
+
+<header>
+  <!-- this is the half-height header hero with paper tear underneath -->
+  <div class="bg-tours bg-half-hero"></div>
+  <div class="tear-half-hero-bottom">
+    <img src="/images/tear-hero-bottom.png" />
+  </div>
+  <!-- this is the tour introduction that appears above the fold -->
+  <div class="tour-intro text-center section-padding">
+    <h1 class="editable">Our Tours and Treks</h1>
+    <p class="editable text-center">
+      Join us for eco treks and nature tours in northern Thailand. We'll pick you up from your hotel or residence in Chiang Mai and take you on an adventure in the great outdoors. Choose from our signature one or two-day treks or add some sightseeing to your experience. We offer challenging treks for the super-active, as well as gentler treks for families. We use local style transportation for our treks, if this does not suit you, we can rent a car for an additional cost.
+    </p>
+    <!-- <a><button class="button-wide">Book Now&ª×<5sR</button></a> -->
+    <a href="#blog"><i class="fa fa-angle-double-down text-big text-turq" aria-hidden="true"></i></a>
+  </div>
+</header>
+<section id="blog" class="">
+  <h2 class="editable text-center bg-turq text-white pad-all-xs">Our Blogs</h2>
+  <p class="editable text-center">
+Read our blogs to know more about us and the kind of services thata we provide. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Explicabo non laborum minima! Adipisci illo minima, reiciendis at tempore odit tempora laborum nostrum soluta natus maiores est fugiat fugit ipsum qui?
+  </p>
+  <span class="line-dotted-turq"></span>
+  <!-- this is a repeating array which pulls content from front-matter of tour pages -->
+  {% for post in site.posts %}
+      <!-- filter tours based on details in front-matter -->
+      <div class="grid">
+        <div class="col-4_md-12 preview-image" style="background-image: url({{post.image}})">
+        </div>
+        <div class="col-8_md-12 text-center-mobile pad-left-s">
+          <h3>{{post.title}}</h3>
+          <p>
+            {{post.description}}
+          </p>
+          <!-- <h5 class="pad-bottom-s">Starting at {{tours.price}} per person</h5> -->
+          <a href="{{post.url}}"><button class="button-main">Read More</button></a>
+        </div>
+        <span class="line-dotted-turq"></span>
+      </div>
+  {% endfor %}
+<!-- 
+  {% for post in site.posts %}
+  <article>
+    <h2>
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h2>
+    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+    {{ post.content }}
+  </article>
+{% endfor %}
+ -->
