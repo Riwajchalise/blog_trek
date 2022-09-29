@@ -15,7 +15,8 @@ description: >-
 code: DIH1
 tripkey: '52335'
 tourgroup: trek
-featured:
+featured: false
+show: false
 image: /received_2172249179682636.jpeg
 price: THB 1,900
 duration: 1 day
