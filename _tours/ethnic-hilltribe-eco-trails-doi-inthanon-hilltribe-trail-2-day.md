@@ -2,16 +2,7 @@
 layout: tour
 title: Ethnic Hilltribe Eco Trails - 2 Day Doi Inthanon Hilltribe Trail
 description: >-
-  Experience a completely off the beaten track hiking trail in Doi Inthanon
-  National Park, rich in fauna and flora. Incredibly scenic and non touristic.
-  Here you will hike one of a kind special hiking trails. Hiking around 5 hours
-  through the heart of the rain forests. Stop at 2 beautiful cascading
-  waterfalls along the trail and have lunch at a viewpoint. Enjoy view points
-  along the trail and arrive at a ethnic Karen Hilltribe village, learn about
-  the traditional herbs and discover all the different things you can eat from
-  the rainforest along the way. See rice paddys and local fruit orchards. Sleep
-  in a Karen Hilltribe village and see their way of life. On our 2 day trail we
-  will hike a 4 hour non-touristic through the rainforest.
+  Experience a completely off the beaten track hiking trail in Doi Inthanon National Park, rich in fauna and flora. Incredibly scenic and non touristic. Here you will hike one of a kind special hiking trails. Hiking around 5 hours through the heart of the rain forests. Stop at 2 beautiful cascading waterfalls along the trail and have lunch at a viewpoint. Enjoy view points along the trail and arrive at a ethnic Karen Hilltribe village, learn about the traditional herbs and discover all the different things you can eat from the rainforest along the way. See rice paddys and local fruit orchards. On our 2 day trails will take you to sleep in our Farm stay on the rice fields of a Karen Hilltribe Village in Doi Inthanon National Park. A farm stay that Ethnic Hilltribe Eco Trails, has helped build and do skills development in homestay building and management.
 code: DIH1
 tripkey: '52980'
 tourgroup: trek
@@ -23,15 +14,12 @@ meals: All meals
 difficulty: 'Medium, has short uphills'
 seasonal: Available all year
 pickupdropoff: >-
-  Pick up from your hotel between 7.00 - 7.30 am. Drop off in Chiang Mai around
-  6.00 pm
+  Pick up from your hotel between 7.30 - 8.00 am. Drop off in Chiang Mai around 6.00 pm
 included: >-
-  Pick up and drop off from your hotel, lunch, water, English-speaking guide,
-  park fees and insurance.
-notincluded: Extra snacks and soft drinks
+  Pick up and drop off from your hotel, lunch, water 2 liters per person only, English-speaking guide, porter and insurance.
+notincluded: Extra water, snacks and soft drinks
 whattobring: >-
-  Wear shoes with grip suitable for trekking, swimsuit for enjoying at the
-  waterfall and pack a warm layer, mornings can be chilly at the summit.
+  Wear shoes with grip suitable for trekking, swimsuit for enjoying at the waterfall and pack a warm layer, mornings and evenings can be chilly up in the mountains.
 highlights:
   - highlight: Doi Inthanon National Park
   - highlight: Trek a special trail through the jungle
@@ -51,18 +39,17 @@ itinerary:
       After lunch we will hike another 2 hours through the rainforest, enjoying
       the viewpoint along the trail and passing another stunning waterfall.
   - item: >-
-      Arrive at Khun Poy Village, where you will be staying the night, explore
-      the local village and enjoy a local hilltribe coffee at the little coffee
-      shop in the village.
+      Arrive at our farmstay, where you will be staying the night, enjoy the beautiful views around the farm.
   - item: >-
-      Enjoy a local thai dinner cooked by your guide, you are welcome to help
-      him prepare the dinner for the evening.
+      Get involved and help your guide prepare your local thai dinner for the evening.
+  - item: >-
+      Enjoy your evening under the stars.
   - item: >-
       Day 2: Slow start to the morning, we will prepare breakfast and depart for
       our hike.
-  - item: We will hike approximately 4 hours through the Rainforest .
+  - item: We will hike approximately 4 hours through the Rainforest.
   - item: We will have lunch along the trail.
-  - item: Depart Doi Inthanon and arrive back in Chiang Mai around 17.30
+  - item: Depart Doi Inthanon and arrive back in Chiang Mai around 17.00
 notes: >-
   Please note that trails and stops may change due to weather and seasonal
   conditions.
