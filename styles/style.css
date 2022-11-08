@@ -603,13 +603,13 @@ footer nav a:hover {
 
 /* about page styles */
 .bg-about {
-  background-image: url('/uploads/chiangdao18.JPG');
+  background-image: url('/images/about1.jpeg');
 }
 .bg-fam {
-  background-image: url('/images/kischafam.jpg');
+  background-image: url('/images/about2.jpg');
 }
 .bg-impact {
-  background-image: url('/uploads/doi-inthanon-13.jpg');
+  background-image: url('/uploads/about4.jpeg');
 }
 .guide-image {;
   width: 100%;
